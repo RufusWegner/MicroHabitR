@@ -11,3 +11,5 @@ Encoding: UTF-8
 RoxygenNote: 7.3.3
 NeedsCompilation: no
 Packaged: 2025-11-11 14:12:02 UTC; 2776183
+URL: https://github.com/RufusWegner/MicroHabitR
+BugReports: https://github.com/RufusWegner/MicroHabitR/issues
