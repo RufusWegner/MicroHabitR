@@ -1,0 +1,13 @@
+Package: MicroHabitR
+Type: Package
+Title: Automated R routines for the soil biology department of
+        Hohenheim
+Version: 0.1.0
+Author: Rufus Wegner
+Maintainer: Rufus Wegner <rufus.wegner@uni-hohenheim.de>
+Description: This package is created continuously in the work of the SoilSystems SPP2322 by Rufus Wegner to automate frequently used data processing procedures of the soil biology Department of Hohenheim
+License: GPL-3
+Encoding: UTF-8
+RoxygenNote: 7.3.3
+NeedsCompilation: no
+Packaged: 2025-11-11 14:12:02 UTC; 2776183
